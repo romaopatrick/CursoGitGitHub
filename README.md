@@ -1,5 +1,5 @@
 # CursoGitGitHub
- Repositório versionado (curso)
+ Repositório versionado (**curso disponível gratuitamente no youtube**)
 
  Repositório criado durante uma aula ao vivo do gustavo guanabara
 
